@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: #97befc;
+}
+.btn{
+  border:none;
+}
+img {
+  height: 100px;
+  width: 100px;
+  margin-top: 40px;
+}
+#demo{
+  background-color: white;
+  height: 200px;
+  width: 300px;
+  margin-top: 100px;
+  border-radius: 25px;
+}
